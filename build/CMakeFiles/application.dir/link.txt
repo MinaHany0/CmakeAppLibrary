@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/application.dir/application/main.cpp.o -o application  library/libteacofee.a 
